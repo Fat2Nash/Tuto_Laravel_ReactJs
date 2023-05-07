@@ -22,4 +22,4 @@ créé le .env  --> php artisan migrate     |  Crée le env et migres tout sur l
 
 En production : yarn build 
 
-en dévelopement : yarn dev (permet de charger a chaque modification)
+En dévelopement : yarn dev (permet de charger a chaque modification)
