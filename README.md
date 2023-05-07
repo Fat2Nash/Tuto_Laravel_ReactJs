@@ -10,7 +10,7 @@ php artisan breeze:install react --dark                 | Installe React sur l'a
 yarn                                                    |  Installe les packages nécessaire
 ```
 
-###A faire lors d'un clone github : 
+### A faire lors d'un clone github : 
 ```
 composer install                          | Installe tout les packages laravel 
 
